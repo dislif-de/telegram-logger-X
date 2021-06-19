@@ -1,5 +1,3 @@
-<<<<<<< main
-## The grass is never greener in philadelphia
-=======
-# FUCK this SHIT!
->>>>>>> main
+## GitHub sucks
+# All I wanna do is merge and replace files with the newer files from the other repo during a conflict
+# But do they allow it? No.
